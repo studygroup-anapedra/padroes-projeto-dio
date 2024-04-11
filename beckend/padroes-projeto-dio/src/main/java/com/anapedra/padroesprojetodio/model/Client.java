@@ -1,7 +1,7 @@
 package com.anapedra.padroesprojetodio.model;
 
 import jakarta.persistence.*;
-import org.springframework.boot.autoconfigure.amqp.RabbitConnectionDetails;
+
 
 @Entity
 public class Client {
