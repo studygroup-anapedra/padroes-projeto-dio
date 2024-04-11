@@ -26,7 +26,7 @@ public class Client {
 	}
 
 	public void setName(String neme) {
-		this.nome = name;
+		this.name = name;
 	}
 
 	public Address getAddress() {
