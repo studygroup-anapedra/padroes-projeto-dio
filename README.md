@@ -111,18 +111,18 @@
 <p>Ana Lúcia N. Lopes de Santana</P>
 
 <h2>Requisito atendidos: </h2>
-<p></P>
+<p>Todos!</P>
 
 <h2>Maior desafio do projeto: </h2>
 <p>
-
+Desenvolver sem o padrão DTO
 </P>
 
 <h2>Maior aprendizado:</h2>
-<p></P>
+<p>Padrões de projeto!</P>
 
 <h2>Principal utilidade do aprendizado adquirido nesse projeto:</h2>
-<p><P>
+<p>Execitei nesse projeto a abilidade de entregar o que foi pedido, contrlando a mania de querer melhorar o projeto infinitamente! <P>
 
 <h2>Próximo desafio(Extra dio):</h2>
 
